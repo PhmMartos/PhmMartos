@@ -7,6 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhmMartos&layout=donut&hide_border=true&title_color=2a9d8f&text_color=2a9d8f&bg_color=0d1117&langs_count=9">
 </div>
 
+
+
  </div>
  <div align="center"> 
 <img width="25%"  src="https://i.imgur.com/vXst0hX.gif[/img]"/>
@@ -14,7 +16,6 @@
  <div align="center">
 
 
-##
 
 
  ### Main skills:
